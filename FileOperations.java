@@ -1,5 +1,3 @@
-// Feb 19, 2019 - Yasir Hassan
-// CS 3300
 // Assignment on inputFile operations
 
 package fileoperations;
